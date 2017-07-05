@@ -1,0 +1,12 @@
+{
+  "name": "roadmapper-roadmap-example",
+  "version": "0.0.1",
+  "description": "Roadmapper roadmap example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaharsol/roadmapper-roadmap-example.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
